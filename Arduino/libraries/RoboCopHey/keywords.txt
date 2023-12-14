@@ -1,0 +1,17 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class RoboCopHey
+RoboCopHey KEYWORD1
+
+# keyword for class functions
+Frente			KEYWORD2
+Direita			KEYWORD2
+Esquerda		KEYWORD2
+Parar			KEYWORD2
+Re			KEYWORD2
+ReDireita		KEYWORD2
+ReEsquerda		KEYWORD2
+CircularEsquerda	KEYWORD2
+CircularDireita		KEYWORD2
+ReCircularEsquerda	KEYWORD2
+RecircularDireita	KEYWORD2
